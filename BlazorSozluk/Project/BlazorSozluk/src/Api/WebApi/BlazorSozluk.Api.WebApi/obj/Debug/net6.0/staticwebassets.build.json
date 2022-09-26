@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OqLxDsdhrCxy9Az9f3JFdMPyL6KMX1vkgDUSEJvzDPA=",
+  "Source": "BlazorSozluk.Api.WebApi",
+  "BasePath": "_content/BlazorSozluk.Api.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

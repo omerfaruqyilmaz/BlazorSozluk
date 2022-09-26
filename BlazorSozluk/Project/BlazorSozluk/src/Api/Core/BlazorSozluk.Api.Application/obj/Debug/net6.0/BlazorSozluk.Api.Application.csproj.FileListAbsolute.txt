@@ -1,0 +1,17 @@
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Application.deps.json
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Application.dll
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Application.pdb
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.csproj.AssemblyReference.cache
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.AssemblyInfoInputs.cache
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.AssemblyInfo.cs
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.csproj.CoreCompileInputs.cache
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.dll
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\refint\BlazorSozluk.Api.Application.dll
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.pdb
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\ref\BlazorSozluk.Api.Application.dll
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Domain.dll
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Common.dll
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Domain.pdb
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Common.pdb
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.csproj.CopyComplete

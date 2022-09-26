@@ -1,0 +1,15 @@
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net6.0\BlazorSozluk.Api.Domain.deps.json
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net6.0\BlazorSozluk.Api.Domain.dll
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net6.0\BlazorSozluk.Api.Domain.pdb
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net6.0\BlazorSozluk.Common.dll
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\bin\Debug\net6.0\BlazorSozluk.Common.pdb
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Domain.csproj.AssemblyReference.cache
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Domain.AssemblyInfoInputs.cache
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Domain.AssemblyInfo.cs
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Domain.csproj.CoreCompileInputs.cache
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Domain.csproj.CopyComplete
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Domain.dll
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net6.0\refint\BlazorSozluk.Api.Domain.dll
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Domain.pdb
+C:\BlazorSozluk\Project\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Domain\obj\Debug\net6.0\ref\BlazorSozluk.Api.Domain.dll
