@@ -1,4 +1,4 @@
-Bu projede kendime ait ekşi sözlük benzeri bir sözlük yaptım.Projede Blazor, RabbitMQ, NET6, EF6, CQRS, Onion Architecture, MediatR gibi teknolojileri kullandım.
+Ekşi sözlüğe benzeyen ama onun kadar detaylı olmayan bir sözlük.Projede Blazor, RabbitMQ, NET6, EF6, CQRS, Onion Architecture, MediatR gibi teknolojileri kullandım.
 ![Ekraaaaaan Alıntısı](https://user-images.githubusercontent.com/89321861/193453923-87221f27-96cc-45f4-ad97-1b5cb36d6db7.PNG)
 ![Ekran Alınsssssssstısı](https://user-images.githubusercontent.com/89321861/193453924-4e0cca7f-dcff-4f4c-a365-b3e9fcda8132.PNG)
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/89321861/193453925-30cfb99d-5925-4797-904d-e92105ba6f3f.PNG)
